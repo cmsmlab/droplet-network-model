@@ -1,6 +1,6 @@
 #= Let's create a matrix that has two droplets next to each other on the x-axis. These droplets should oscillate for a bit, and then diffusion will occur when velocity reaches zero. 
 Additionally, let the droplets be initially at rest when this simulation begins: =#
-include("E:/Research Scripts and Functions/Julia Scripts/mydropletvectorjcomponents.jl")
+include("../src/mydropletvectorjcomponents.jl")
 using .MyDropletVectorJComponents
 using LinearAlgebra
 using DifferentialEquations
