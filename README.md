@@ -1,5 +1,7 @@
 # natedrop.jl
 
+*This julia package is created by Nathaniel Markusic as part of an undergraduate research project supported by NSF/DMREF award under grant number CMMI 2119716. This support is gratefully acknowledged.*
+
 ![](images/githubpic1.png)
 ![](images/githubpic2.png)
 ![](images/githubpic3.png)
@@ -60,4 +62,4 @@ dropvecj!(rho, k, L , gamma, D, timeend, ICmatrix, boolean_osm)
 Use the .xyz file (default is a .ovito file) and view it in visualization software of your choice. The end of the simulation at 250 seconds should look like so: 
 ![](images/githubpic5.png)
 
-## This julia script is created by Nathaniel Markusic as part of an undergraduate research project funded by NSF/DMREF award under grant number CMMI 2119716. This support is gratefully acknowledged. 
+
