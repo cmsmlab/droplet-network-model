@@ -1,6 +1,6 @@
 # natedrop.jl
 
-*This julia package is created by Nathaniel Markusic as part of an undergraduate research project supported by NSF/DMREF award under grant number CMMI 2119716. This support is gratefully acknowledged.*
+*This julia package is created by Nathaniel Markusic as part of an undergraduate research project at UT Austin supported by NSF/DMREF award under grant number CMMI 2119716. This support is gratefully acknowledged.*
 
 ![](images/githubpic1.png)
 ![](images/githubpic2.png)
